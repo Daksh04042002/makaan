@@ -1,5 +1,7 @@
 Real Estate Project
 SCREENSHOTS:
+![Screenshot Description](screenshots\1.png)
+
 git add screenshots\1.png
 git add screenshots\2.png
 git add screenshots\3.png
